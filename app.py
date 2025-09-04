@@ -137,4 +137,4 @@ if uploaded_file is not None:
 # -----------------------------
 # Footer
 # -----------------------------
-st.markdown("<div class='footer'>✨ Made with ❤️ using Streamlit & TensorFlow</div>", unsafe_allow_html=True)
+st.markdown("<div class='footer'>✨ Made with ❤️NABEEL BHATTI AI & Data Science Specialist | Machine Learning | Predictive Analytics |</div>", unsafe_allow_html=True)
