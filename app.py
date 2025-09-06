@@ -7,7 +7,7 @@ from PIL import Image
 # Page Config
 # -----------------------------
 st.set_page_config(
-    page_title="Sign Language Recognition",
+    page_title="ASL Alphabet Recognition using CNN",
     page_icon="🤟",
     layout="wide"
 )
